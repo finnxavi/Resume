@@ -13,9 +13,8 @@ B.A., Mass Communications - August 2012 - May 2016
 - **Mira Costa College**
 A.A., Computer Science - January 2017 - Present
 
-# Contact Info
-## Header 2
-### Header 3
+## Course Objective: 
+- To be able to qualify for a position related to my field of specialization, which will serve not only as a career growth but as a challenge to my profession.
 
 - Bulleted
 - List
