@@ -1,4 +1,4 @@
-![xavier profile image](profile.jpeg)
+![xavier profile image](profile.jpg)
 # Xavier J. Finney
 ## Contact Info: ![email icon](yahoo-mail.png) [Email](xavierfinney2@yahoo.com) ![linkedin icon](linkedin-logo.png)
 [LinkedIn](https://www.linkedin.com/in/xavier-finney-2a1a68103/)
