@@ -1,7 +1,10 @@
-![xavier profile image](profile.jpg)
+![xaviers profile image](profile.png)
+
 # Xavier J. Finney
-## Contact Info: ![email icon](yahoo-mail.png) [Email](xavierfinney2@yahoo.com) ![linkedin icon](linkedin-logo.png)
-[LinkedIn](https://www.linkedin.com/in/xavier-finney-2a1a68103/)
+- 4487 Brisbane Way Unit #3, Oceanside CA 92058
+- (760)529-2448
+
+## Contact Info: ![email icon](yahoo-mail.png) [Email](xavierfinney2@yahoo.com) ![linkedin icon](linkedin-logo.png) [LinkedIn](https://www.linkedin.com/in/xavier-finney-2a1a68103/)
 ## Education
 
 - **Idaho State University**
@@ -9,9 +12,6 @@ B.A., Mass Communications - August 2012 - May 2016
 *Emphasis: Visual Media*
 - **Mira Costa College**
 A.A., Computer Science - January 2017 - Present
-
-```markdown
-Syntax highlighted code block
 
 # Contact Info
 ## Header 2
