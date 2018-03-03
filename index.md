@@ -1,11 +1,14 @@
-![xavier profile image](IMG_5368.JPG)
-You can use the [editor on GitHub](https://github.com/finnxavi/Resume/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+![xavier profile image](profile.jpeg)
+# Xavier J. Finney
+## Contact Info: ![email icon](yahoo-mail.png) [Email](xavierfinney2@yahoo.com) ![linkedin icon](linkedin-logo.png)
+[LinkedIn](https://www.linkedin.com/in/xavier-finney-2a1a68103/)
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- **Idaho State University**
+B.A., Mass Communications - August 2012 - May 2016
+*Emphasis: Visual Media*
+- **Mira Costa College**
+A.A., Computer Science - January 2017 - Present
 
 ```markdown
 Syntax highlighted code block
